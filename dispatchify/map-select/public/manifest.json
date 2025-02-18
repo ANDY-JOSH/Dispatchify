@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "DAT loadboard Map Select",
+    "version": "0.0.1",
+    "description": "A Chrome extension for DAT loadboard. Select states on a map.",
+    "action": {
+      "default_popup": "index.html"
+      
+    },
+    "permissions": [],
+    "host_permissions": []
+  }
+  
